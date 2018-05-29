@@ -1,5 +1,5 @@
 {
-  "name": "comtele_sdk",
+  "name": "comtele/comtele_sdk",
   "description":
     "SDK para envio de mensagens de texto usando a plataforma Comtele",
   "authors": [
