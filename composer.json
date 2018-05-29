@@ -1,6 +1,7 @@
-﻿{
+{
   "name": "comtele_sdk",
-  "description": "SDK para envio de mensagens de texto usando a plataforma Comtele",
+  "description":
+    "SDK para envio de mensagens de texto usando a plataforma Comtele",
   "authors": [
     {
       "name": "Diego Vieira",
