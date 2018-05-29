@@ -1,0 +1,13 @@
+﻿{
+  "name": "comtele_sdk",
+  "description": "SDK para envio de mensagens de texto usando a plataforma Comtele",
+  "authors": [
+    {
+      "name": "Diego Vieira",
+      "email": "desenvolvimento@comtele.com.br"
+    }
+  ],
+  "require": {
+    "php": ">=5.2.8"
+  }
+}
