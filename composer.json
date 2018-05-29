@@ -8,6 +8,8 @@
       "email": "desenvolvimento@comtele.com.br"
     }
   ],
+  "minimum-stability": "stable",
+  "version": "1.0.0",
   "license": "MIT",
   "require": {
     "php": ">=5.2.8"
