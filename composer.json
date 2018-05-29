@@ -8,8 +8,8 @@
       "email": "desenvolvimento@comtele.com.br"
     }
   ],
-  "minimum-stability": "stable",
-  "version": "1.0.0",
+  "keywords": ["comtele", "sms", "telephony", "REST", "sdk"],
+  "version": "1.0.1",
   "license": "MIT",
   "require": {
     "php": ">=5.2.8"
