@@ -8,6 +8,7 @@
       "email": "desenvolvimento@comtele.com.br"
     }
   ],
+  "license": "MIT",
   "require": {
     "php": ">=5.2.8"
   }
