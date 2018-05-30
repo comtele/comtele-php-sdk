@@ -8,15 +8,16 @@
       "email": "desenvolvimento@comtele.com.br"
     }
   ],
-  "keywords": ["comtele", "sms", "telephony", "REST", "sdk"],
-  "version": "1.0.4",
+  "keywords": ["comtele", "sms", "telephony", "REST", "sdk", "api"],
+  "homepage": "https://docs.comtele.com.br",
+  "version": "1.0.5",
   "license": "MIT",
   "require": {
     "php": ">=5.2.8"
   },
   "autoload": {
     "psr-4": {
-      "Comtele\\": "/"
+      "Comtele\\": "Comtele/"
     }
   }
 }
