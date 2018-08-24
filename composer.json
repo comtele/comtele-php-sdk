@@ -16,7 +16,7 @@
     "api"
   ],
   "homepage": "https://docs.comtele.com.br",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "license": "MIT",
   "require": {
     "php": ">=5.2.8"
