@@ -4,7 +4,7 @@ namespace Comtele\Services;
 
 class TokenService extends ServiceBase
 {
-    function send_totken($phone_number, $prefix)
+    function send_token($phone_number, $prefix)
     {
         $service_url = $this->base_url . "tokenmanager";
 
