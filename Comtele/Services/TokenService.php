@@ -4,7 +4,7 @@ namespace Comtele\Services;
 
 class TokenService extends ServiceBase
 {
-    function send_totken($phone_number, $prefix)
+    function send_token($phone_number, $prefix)
     {
         $service_url = $this->base_url . "tokenmanager";
 
@@ -31,6 +31,14 @@ class TokenService extends ServiceBase
         curl_close($curl);
 
         return json_decode($server_output);
+    }
+
+    /*
+     * @deprecated Use a função send_token.
+     */
+    function send_totken($phone_number, $prefix)
+    {
+        return $this->send_token($phone_number, $prefix);
     }
 
     function validate_token($token_code)
